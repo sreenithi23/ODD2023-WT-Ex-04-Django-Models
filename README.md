@@ -51,3 +51,6 @@ And in the user_profile template page you can see the profile page of the user.
 ![Screenshot 2023-12-29 203807](https://github.com/sreenithi23/ODD2023-WT-Ex-04-Django-Models/assets/147017600/8ee6f48d-c1f1-400d-a72d-c25533bb9174)
 ![Screenshot 2023-12-29 203823](https://github.com/sreenithi23/ODD2023-WT-Ex-04-Django-Models/assets/147017600/5da23253-f497-4e59-a769-d1581099923c)
 
+### Result:
+The program implementing Django model is excuted successfully.
+
